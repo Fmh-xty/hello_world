@@ -21,3 +21,4 @@ prob = cp.Problem(obj, con)
 prob.solve(solver='GLPK_MI')
 # 打印结果
 print('最优值：{}\n最优解:\n{}'.format(prob.value, x.value))
+#圣诞节咖啡贺卡收到付款就哈萨克京东方
